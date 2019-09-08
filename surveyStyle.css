@@ -1,0 +1,23 @@
+h1
+{
+	color: red;	
+}
+body
+{
+	font-size: 150%;
+	text-align: center;
+	background-image: url("BurgerHD.jpg");
+	background-size: stretch;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+form
+{
+	color: white;
+}
+label
+{
+	color: red;
+	border-style: solid;
+  border-color: red;
+  background-color: yellow;
+}
